@@ -124,3 +124,8 @@ function compare() {
         pointLose.innerText = contador;
     }
 }
+
+function shuffle(params) {
+    
+}
+
